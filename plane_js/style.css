@@ -3,7 +3,7 @@ body {
 }
 
 input {
-  border-radius: 16px;
+  border-radius: 16px;｝
   border: none;
   padding: 6px 16px;
   outline: none;
@@ -23,7 +23,7 @@ button:hover {
 
 li {
   margin-right: 8px;
-  
+
 }
 
 .input-area {
